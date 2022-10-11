@@ -15,21 +15,20 @@ Utilisation de l' Api google-maps
 <br>
 <br>
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/90606431/195064745-9d35b061-b05c-47f0-b9bb-d4b12103363e.jpg")/>
-<br>
 
-Accès à la documentation : 
-<br>
-
-
- 
 ## Technologies utilisées : ##
  
 - HTML5, CSS3, JavaScript, Node.js, Vue-cli, Tailwind.
 - dependances : tw-elements, postcss, core-js.
  <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/90606431/195065315-2636e0b6-9155-4b8e-8fc3-e42759e91169.jpeg")/>
+<br>
 
+
+
+Accès à la documentation : 
+<br>
 
  ### Project: Scoreur-Compass ###
 
