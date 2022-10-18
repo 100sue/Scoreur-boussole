@@ -42,10 +42,11 @@
 <script>
 import { onMounted, ref } from 'vue';
 import googlePlaces from '../composables/googlePlaces';
+
 export default {
   setup() {
       const addressInput = ref(null);
-      const link = "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places";
+      const link = "https://maps.googleapis.com/maps/api/js?key=apikey&libraries=places";
 
       onMounted( async () => {
           await googlePlaces(link);
